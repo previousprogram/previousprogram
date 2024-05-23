@@ -2,7 +2,7 @@
   <b>Hi, I'm Previous!</b>
 </h1>
 
-I'm a HS student interested in programming, networking, and electrical systems. I hope to major in Comp Sci and minor in Electrical Engineering next year! I wanna make games as a hobby, and I'm currently working on a personal/professional website project.
+I'm a HS student interested in programming, networking, and electrical systems. I major in Comp Sci and minor in Electrical Engineering. I wanna make games as a hobby, and I'm currently working on a personal/professional website project.
 
 <br>
 
